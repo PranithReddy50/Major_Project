@@ -2,3 +2,4 @@ thermal.v3-myimages-tfwtrainingset.yolov11
 data
 best_model.pth
 venv
+eval.py
